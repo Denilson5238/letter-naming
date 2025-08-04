@@ -5,4 +5,4 @@ var upperCase = name.toUpperCase();
 var restOfname = name.slice(1,name.length);
 var restOfname = restOfname.toLowerCase();
 var capitalisedName = upperCasefirstChar + restOfname;
-alert("Hello, " + capitalisedName);
+console.log("Hello, " + capitalisedName);
